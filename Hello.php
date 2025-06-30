@@ -1,4 +1,4 @@
 <?php
-// Display greeting message
-echo "Hello, world!";
+    // Display greeting message
+    echo "Hello, world!";
 ?>

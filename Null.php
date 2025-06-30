@@ -1,13 +1,13 @@
 <?php
 
-$a = NULL;
-var_dump($a);
+    $a = NULL;
+    var_dump($a);
 
-echo "<br>";
+    echo "<br>";
 
-$b = "Hello World!";
-$b = NULL;
+    $b = "Hello World!";
+    $b = NULL;
 
-var_dump($b);
+    var_dump($b);
 
 ?>
