@@ -59,5 +59,4 @@ var_dump($mobile3);
 
 $show_error = true;
 var_dump($show_error);
-
 ?>
