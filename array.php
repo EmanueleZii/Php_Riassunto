@@ -52,8 +52,13 @@
     // Display the cities array
     print_r($cities);
 
-    // Define array
-    $cities = array("London", "Paris", "New York");
     // Display the cities array
     var_dump($cities);
+
+    // Define array
+    $age = array("Peter"=>20, "Harry"=>14, "John"=>45, "Clark"=>35);
+   
+    // Sorting array by key and print
+    ksort($age);
+    print_r($age);
 ?>
