@@ -1,5 +1,5 @@
 ### Esempi di codice – Riassunto del linguaggio PHP
-Questa repository raccoglie esempi pratici e script PHP che ho letto o sperimentato seguendo vari tutorial.
+Questa repository raccoglie esempi pratici PHP .
 L'obiettivo è creare un riassunto del linguaggio PHP, utile per ripassare, studiare e approfondire le basi e le funzionalità principali del linguaggio.
 
 ### 📖 Fonti e riferimenti
