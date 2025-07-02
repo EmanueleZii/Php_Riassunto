@@ -8,10 +8,7 @@
         echo "The number is " . $i . "<br>";
         
     } 
-    echo "The number is " . $i . "<br>";
-
-
-
+  
     $i = 1;
     do {
         $i++;
@@ -30,12 +27,12 @@
         echo $value . "<br>";
     }
 
-    $superhero = array(
-    "name" => "Peter Parker",
-    "email" => "peterparker@mail.com",
-    "age" => 18
+    $superhero = array (
+        "name" => "Peter Parker",
+        "email" => "peterparker@mail.com",
+        "age" => 18
     );
-    
+
     // Loop through superhero array
     foreach($superhero as $key => $value) {
         echo $key . " : " . $value . "<br>";
